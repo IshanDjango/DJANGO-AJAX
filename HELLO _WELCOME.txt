@@ -1,7 +1,5 @@
 hello welcome 
-to 
-tops 
-technology 
+
 
 python 
 programing language
